@@ -1,5 +1,7 @@
   ## yum install -y git rake zsh tmux
-  ## sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+```bash 
+sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+```
    _     _           _
     | |   | |         | |
     | |___| |_____  __| | ____
