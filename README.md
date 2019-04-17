@@ -1,7 +1,8 @@
 ## mumuu 
 ```bash 
-yum install -y git rake zsh tmux
-
+yum install -y rake zsh
+```
+```oh my zsh
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
    _     _           _
