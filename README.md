@@ -1,6 +1,6 @@
 ## mumuu 
 ```bash 
-yum install -y rake zsh
+yum install -y rake zsh fontconfig
 ```
 ```oh my zsh
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
